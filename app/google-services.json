@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "782753924420",
+    "project_id": "proyecto-83ed5",
+    "storage_bucket": "proyecto-83ed5.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782753924420:android:51255303d53c2fdeca4311",
+        "android_client_info": {
+          "package_name": "mx.edu.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOJvunXXdb3uRk1HWw5cyU7y6s972N06I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
